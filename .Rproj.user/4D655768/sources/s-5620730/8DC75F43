@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1615841697344.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4041677922",
+    "id" : "8DC75F43",
+    "lastKnownWriteTime" : 1615842663,
+    "last_content_update" : 1615842664081,
+    "path" : "C:/Users/kmg31/Box/Katy/Classes/Reproducible_Science/assignment7_bookdown/project_bookdown/01-database.Rmd",
+    "project_path" : "01-database.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,32",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

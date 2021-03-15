@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1615840125923.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4229655083",
+    "id" : "C73C46D6",
+    "lastKnownWriteTime" : 1615842895,
+    "last_content_update" : 1615842895852,
+    "path" : "C:/Users/kmg31/Box/Katy/Classes/Reproducible_Science/assignment7_bookdown/project_bookdown/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "14,399",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1615840125612.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3973538444",
+    "id" : "C45ED855",
+    "lastKnownWriteTime" : 1615841539,
+    "last_content_update" : 1615841539424,
+    "path" : "C:/Users/kmg31/Box/Katy/Classes/Reproducible_Science/assignment7_bookdown/project_bookdown/_output.yml",
+    "project_path" : "_output.yml",
+    "properties" : {
+        "cursorPosition" : "5,63",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
